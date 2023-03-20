@@ -4,4 +4,4 @@ This page comprises of the material used for tutoring an introductory course in 
 - Prior, posterior and kernel functions;
 - Linear regression and simple binary choice models with diffuse/conjugate priors;
 - Bayesian point estimates, testing, and forecasting;
-- Monte Carlo integration [importance sampling, MCMC methods (e.g. Gibbs sampling, Metropolis-Hastings);
+- Monte Carlo integration [importance sampling, MCMC methods (e.g. Gibbs sampling, Metropolis-Hastings)];
